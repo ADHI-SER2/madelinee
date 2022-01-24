@@ -36,7 +36,7 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/madelinee)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ADHI-SER2/madelinee)
 
 
 
@@ -80,7 +80,7 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![DRIPS MEMES](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/27634090203?text=Can%20you%20help%20bro)**
+**[![DRIPS MEMES](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919072501166?text=Can%20you%20help%20bro)**
 
 
  
